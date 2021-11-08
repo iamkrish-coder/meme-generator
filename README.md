@@ -1,4 +1,4 @@
-Application: dock-clock (A simple React JS clock)
+Application: Meme Generator (A simple React JS Meme Generator Application)
 
 Link: https://iamkrish-coder.github.io/meme-generator/
 
